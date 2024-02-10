@@ -1,1 +1,0 @@
-This is a sentence. And another one.
