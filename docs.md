@@ -1,5 +1,5 @@
 This documentation describes how to use the Karel automatic toothbrush, designed for humans.
 
-Note that this toothbrush is totally safe to use for children, adults, pets, wildlife but not for aliens.
+Note that this toothbrush is totally safe to use for children, adults, pets, wildlife, but not for extraterrestrial beings.
 
-The toothbrush requires electricity to use it.
+The toothbrush requires electricity to operate.
